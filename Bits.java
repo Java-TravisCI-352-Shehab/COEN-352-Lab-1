@@ -1,4 +1,4 @@
-class Bits{
+class Bit{
 	public static void main(String[] args){
 		int x = 0x16; 	// 22 d
 		int y = 0x33;	// 51 d
